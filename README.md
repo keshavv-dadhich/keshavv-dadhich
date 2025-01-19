@@ -8,4 +8,5 @@
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=keshavv-dadhich&style=flat-square&color=blue" alt=""/>
 </div>
